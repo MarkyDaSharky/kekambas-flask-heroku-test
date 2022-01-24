@@ -1,0 +1,5 @@
+kekambas_venv/
+__pycache__/
+venv/
+.env
+app.db
